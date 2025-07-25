@@ -1,4 +1,4 @@
 # Riya-demo
 This is my first repository.
 <br>
-Author-Riya Kotalwar
+Author-Riya (K)
